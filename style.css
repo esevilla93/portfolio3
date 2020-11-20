@@ -1,0 +1,147 @@
+p {
+  font-family: "arial";
+  font-size: 24px;
+  color: black;
+  line-height: normal;
+}
+
+h1 {
+  color:white;
+  font-family: "arial";
+  padding: 4px;
+  text-align: left;
+}
+
+body {
+  background-image: url(https://image.freepik.com/free-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg);
+  background-size: cover;
+  background-position: center;
+  background-color: black;
+  margin: auto;
+  padding: 0px;
+}
+
+.jumbotron {
+  opacity: 0.6;
+  text-align: center;
+  margin: 50px;
+  background-color: whitesmoke;
+}
+
+.navbar a {
+  font-family: "arial";
+  font-size: 24px;
+  color: black !important;
+  margin: auto;
+}
+
+.navbar a:hover {
+  color: white !important;
+}
+
+.footer {
+  background-color: whitesmoke;
+  width: auto;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin: auto;
+  border-radius: 8px;
+  border: 7px solid white;
+}
+
+.footer .footer-left,
+.footer .footer-center,
+.footer .footer-right {
+  display: inline;
+  vertical-align: top;
+  margin-right: 0px;
+  padding: 10px;
+  text-align: center;
+}
+
+.footer .icons a {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  background-color: black;
+  border-radius: 08px;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  line-height: 35px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+}
+
+.footer .footer-center i {
+  background-color: #33383b;
+  color: white;
+  font-size: 19px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 35px;
+  margin: 10px 15px;
+  vertical-align: middle;
+}
+
+.footer .footer-center i.fa-envelope {
+  font-size: 20px;
+  margin-left: 5px;
+  text-align: center;
+}
+
+.footer .footer-center p {
+  display: inline-block;
+  color: black;
+  font-size: 20px;
+  vertical-align: middle;
+  font-family: "arial";
+}
+
+.form-top {
+  margin-top: 20px;
+  padding: 0px;
+  height: fit-content;
+  background-color: whitesmoke;
+  border: 7px solid white;
+  border-radius: 25px ;
+}
+
+.panel {
+  border-radius: 20px;
+  margin: 20px;
+  color: black;
+  font-size: large;
+}
+
+.card {
+  background-position: center;
+  background-size: cover;
+  margin: 10px;
+  border-radius: 5px;
+  border: 7px solid white;
+}
+
+.card-text {
+  font-family: "Arial";
+  color: black;
+  font-size: 21px;
+}
+
+.card-link {
+  border: 6px groove white;
+  color: black;
+  padding: 13px 29px;
+  text-align: center;
+  display: inline-block;
+  font-size: 19px;
+  font-family: "arial";
+}
+
+.card-link:hover {
+  background-color: gray;
+}
